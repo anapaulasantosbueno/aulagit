@@ -1,7 +1,7 @@
-#titulo principal do head me.
-#descrição principal do mei read me.
-##subtitulo
+# Titulo principal do head me.
+ Descrição principal do mei read me.
+## Subtitulo
 oooooo
-##para que
+## Para que
 serve apra
 poiujjj
